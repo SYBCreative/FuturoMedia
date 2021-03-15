@@ -76,17 +76,12 @@ const Hero = ({
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="https://www.youtube.com/channel/UCzETGOEaqbY-SQvbUUZw2Yw"
+                    href="https://medium.com/@jamescoholan/the-agora-white-paper-8c940a06683b"
                   >
-                    Get started
+                    Blog
                   </Button>
-                  <Button
-                    tag="a"
-                    color="dark"
-                    wideMobile
-                    href="https://www.youtube.com/channel/UCzETGOEaqbY-SQvbUUZw2Yw"
-                  >
-                    View on YouTube
+                  <Button tag="a" color="dark" wideMobile href="">
+                    YouTube
                   </Button>
                 </ButtonGroup>
               </div>
