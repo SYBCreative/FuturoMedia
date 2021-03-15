@@ -1,15 +1,23 @@
 {
-  "futuro": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-futuromedia-futuro-142011-authRole",
-      "UnauthRoleArn": "arn:aws:iam::757887447730:role/amplify-futuromedia-futuro-142011-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::757887447730:role/amplify-futuromedia-futuro-142011-authRole",
-      "Region": "us-west-2",
-      "DeploymentBucketName": "amplify-futuromedia-futuro-142011-deployment",
-      "UnauthRoleName": "amplify-futuromedia-futuro-142011-unauthRole",
-      "StackName": "amplify-futuromedia-futuro-142011",
-      "StackId": "arn:aws:cloudformation:us-west-2:757887447730:stack/amplify-futuromedia-futuro-142011/3ab2f620-85d4-11eb-a88e-02677f4e2fd9",
-      "AmplifyAppId": "d1lybvctuzec6e"
+    "futuro": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-futuromedia-futuro-142011-authRole",
+            "UnauthRoleArn": "arn:aws:iam::757887447730:role/amplify-futuromedia-futuro-142011-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::757887447730:role/amplify-futuromedia-futuro-142011-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-futuromedia-futuro-142011-deployment",
+            "UnauthRoleName": "amplify-futuromedia-futuro-142011-unauthRole",
+            "StackName": "amplify-futuromedia-futuro-142011",
+            "StackId": "arn:aws:cloudformation:us-west-2:757887447730:stack/amplify-futuromedia-futuro-142011/3ab2f620-85d4-11eb-a88e-02677f4e2fd9",
+            "AmplifyAppId": "d1lybvctuzec6e"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1lybvctuzec6e",
+                    "type": "cicd"
+                }
+            }
+        }
     }
-  }
 }
